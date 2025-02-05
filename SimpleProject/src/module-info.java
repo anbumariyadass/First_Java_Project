@@ -1,0 +1,2 @@
+module SimpleProject {
+}
