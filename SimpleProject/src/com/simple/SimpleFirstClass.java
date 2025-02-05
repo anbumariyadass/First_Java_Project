@@ -1,6 +1,5 @@
 package com.simple;
 
-
 public class SimpleFirstClass {
 
 	public static void main(String[] args) {
